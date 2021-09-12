@@ -1,2 +1,2 @@
 # Jupyter
-This repository contains exercise related to python Pandas
+This repository contains exercise related to python Pandas lib
